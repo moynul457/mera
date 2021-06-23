@@ -99,14 +99,14 @@ TTTTTT  T:::::T  TTTTTT  H:::::H     H:::::H C:::::C       CCCCCC  B::::B     B:
    
      
  
-    8
-    `.:
-  
-  
-  :::
- .::
 
-  `
+   
+  
+  
+  
+ 
+
+  
 
 
 ---------------------------------------------
@@ -153,10 +153,10 @@ print  """
 \033[1;95m«-_-_-_-_-_-_-_-_-\033[1;91mHuntter\033[1;95m-_-_-_-_-_-_-_-_-»
 \033[1;92mNote1: Enter Tool usernam and Password 
 \033[1;92mNote2: This Tool is only for Bangladesh
-\033[1;95m«-_-_-_-_-_-_-_-_-\033[1;91mRh king\033[1;95m-_-_-_-_-_-_-_-_-»
+\033[1;95m«-_-_-_-_-_-_-_-_-\033[1;91mMoynul hassan\033[1;95m-_-_-_-_-_-_-_-_-»
  """
-CorrectUsername = "Rh"
-CorrectPassword = "king"
+CorrectUsername = "THCB"
+CorrectPassword = "THCB"
 
 loop = 'true'
 while (loop == 'true'):
