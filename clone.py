@@ -105,20 +105,20 @@ TTTTTT  T:::::T  TTTTTT  H:::::H     H:::::H C:::::C       CCCCCC  B::::B     B:
   
   :::
  .::
- :::
+
   `
 
 
 ---------------------------------------------
 \033[1;96m|-------+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-----|
-\033[1;96m|                Rh king               |
+\033[1;96m|                Termux help centre bd               |
 \033[1;96m|This Tool is Only for Bangladesh FB Acounts|
 \033[1;96m|------+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+------|
 
-\033[1;91m [⚡\05[1;97mAuthor Name: Rh king     ⚡\05[1;91m]
-\033[1;91m [⚡\05[1;97mfb:cyber king squad ⚡\033[1;91m]
-\033[1;91m [⚡       \033[1;97mFrom: bangladash      ⚡\033[1;91m]
-\033[1;95m«-_-_-_-_-_-_-_-_-\033[1;91mRh king\033[1;95m-_-_-_-_-_-_-_-_-»
+\033[1;91m [Author Name: Hunter-Moynul⚡\05[1;91m]
+\033[1;91m [fb group :Termux help centre bd  ⚡\033[1;91m]
+\033[1;91m [From: Bogra     ⚡\033[1;91m]
+\033[1;95m«-_-_-_-_-_-_-_-_-\033[1;91mHunter baba\033[1;95m-_-_-_-_-_-_-_-_-»
 """
 
 def tik():
