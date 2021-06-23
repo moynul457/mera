@@ -229,10 +229,10 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "\033[1;93mWrong Password"
-            os.system('xdg-open https://facebook.com/groups/410705233430512/')
+            os.system('xdg-open https://www.facebook.com/profile.php?id=100028650051426')
     else:
         print "\033[1;94mWrong Username"
-        os.system('xdg-open https://www.facebook.com/106457414408853')
+        os.system('xdg-open https://www.facebook.com/profile.php?id=100040939292588')
 
 ##### LICENSE #####
 #=================#
